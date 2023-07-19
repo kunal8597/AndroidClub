@@ -90,6 +90,7 @@ function AboutUs() {
                     <strong className="role1">{teamData[1].role}</strong>
                     <br />
                     <strong className="name1">{teamData[1].name}</strong>
+                    <br/>
                     <strong className="dep1">{teamData[1].department}</strong> 
                 </div>
                 )}
@@ -100,6 +101,7 @@ function AboutUs() {
                     <strong className="role2">{teamData[2].role}</strong>
                     <br />
                     <strong className="name2">{teamData[2].name}</strong>
+                    <br/>
                     <strong className="dep2">{teamData[2].department}</strong> 
                 </div>
                 )}
@@ -110,6 +112,7 @@ function AboutUs() {
                     <strong className="role3">{teamData[3].role}</strong>
                     <br />
                     <strong className="name3">{teamData[3].name}</strong>
+                    <br/>
                     <strong className="dep3">{teamData[3].department}</strong> 
                 </div>
                 )}
@@ -120,6 +123,7 @@ function AboutUs() {
                     <strong className="role4">{teamData[4].role}</strong>
                     <br />
                     <strong className="name4">{teamData[4].name}</strong>
+                    <br/>
                     <strong className="dep4">{teamData[4].department}</strong> 
                 </div>
                 )}
@@ -130,6 +134,7 @@ function AboutUs() {
                     <strong className="role5">{teamData[5].role}</strong>
                     <br />
                     <strong className="name5">{teamData[5].name}</strong>
+                    <br/>
                     <strong className="dep5">{teamData[5].department}</strong> 
                 </div>
                 )}
@@ -140,6 +145,7 @@ function AboutUs() {
                     <strong className="role5">{teamData[5].role}</strong>
                     <br />
                     <strong className="name5">{teamData[5].name}</strong>
+                    <br/>
                     <strong className="dep5">{teamData[5].department}</strong> 
                 </div>
                 )}
